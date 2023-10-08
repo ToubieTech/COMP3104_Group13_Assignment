@@ -1,0 +1,35 @@
+Title: COMP 3104 DevOps Course Overview
+
+Introduction:
+COMP 3104 is a comprehensive DevOps course designed to equip students with the knowledge and skills needed to excel in the dynamic field of DevOps. This course provides an in-depth understanding of DevOps principles, practices, and tools.
+
+1. Course Description:
+COMP 3104 is an advanced-level course that delves into the world of DevOps. It covers various aspects of DevOps, including:
+
+Understanding the DevOps philosophy and its importance in modern software development.
+Implementing continuous integration (CI) and continuous delivery (CD) pipelines.
+Managing infrastructure as code (IaC) using tools like Terraform and Ansible.
+Incorporating security practices into the DevOps pipeline (DevSecOps).
+Automating testing, deployment, and monitoring processes.
+Collaboration and communication strategies for DevOps teams.
+Real-world case studies and hands-on projects.
+
+3. Course Format:
+COMP 3104 is typically offered as a semester-long course, and the format may include:
+
+Lectures and discussions on key DevOps concepts and best practices.
+Hands-on lab sessions where students work with DevOps tools and technologies.
+Group projects and assignments that simulate real-world DevOps scenarios.
+Guest lectures by industry experts sharing their insights and experiences.
+4. Prerequisites:
+To enroll in COMP 3104, students may need to meet certain prerequisites, which can include completion of prerequisite courses in software development, system administration, or related fields. It's advisable to check the specific requirements with the college or institution offering the course.
+
+
+6. Instructor and Resources:
+COMP 3104 is typically taught by experienced instructors with expertise in DevOps practices. Students may have access to course materials, textbooks, and online resources to support their learning.
+
+7. Assessment and Certification:
+Assessment methods may include examinations, assignments, group projects, and practical exams. Successful completion of the course may result in a certification or academic credit, depending on the institution.
+
+
+
