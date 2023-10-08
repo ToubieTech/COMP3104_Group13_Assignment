@@ -1,6 +1,6 @@
 Organizations are facing increasing pressure from their customers and competitors to deliver faster, more secure innovation as the world relies more heavily on digital services. However, it has become a constant struggle for DevOps teams to keep up with this demand while maintaining the reliability and security of their software.We asked 1,300 CIOs and senior DevOps managers about the challenges they face. Here’s what they reported:
 
-55% of organizations are often sacrificing code quality, reliability, or security to meet the demand for rapid software delivery.
-31% of DevOps teams’ time is spent on manual approaches that are not scalable, and teams can no longer waste time troubleshooting or patching vulnerabilities.
+45% of organizations are often sacrificing code quality, reliability, or security to meet the demand for rapid software delivery.
+61% of DevOps teams’ time is spent on manual approaches that are not scalable, and teams can no longer waste time troubleshooting or patching vulnerabilities.
 90% of IT leaders say increasing the use of AIOps within DevOps and security projects will be key to scaling up DevSecOps.
 DevOps is a general collection of flexible software creation and delivery practices that looks to close the gap between software development and IT operations, which are two critical but often misaligned efforts. It's not a specific technology, but a tactical approach. By working together, development and operations teams can eliminate roadblocks and focus on improving the creation, deployment, and continuous monitoring of software.
