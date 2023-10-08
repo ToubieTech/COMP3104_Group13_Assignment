@@ -2,4 +2,4 @@ DevOps is basically a combination of two words- Development and Operations. DevO
 
 The goal of DevOps is to increase an organization’s speed when it comes to delivering applications and services. Many companies have successfully implemented DevOps to enhance their user experience including Amazon, Netflix, etc.
 
-Industries have started to gear up for digital transformation by shifting their means to weeks and months instead of years while maintaining high quality as a result.  The solution to all this is- DevOps.
+Industries have started to gear up for digital transformation by shifting their means to weeks and months instead of years while maintaining high quality as a result.  The solution to all this is- DevOps
