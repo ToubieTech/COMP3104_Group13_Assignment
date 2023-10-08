@@ -13,15 +13,7 @@ Incorporating security practices into the DevOps pipeline (DevSecOps).
 Automating testing, deployment, and monitoring processes.
 Collaboration and communication strategies for DevOps teams.
 Real-world case studies and hands-on projects.
-2. Course Objectives:
-The primary objectives of COMP 3104 DevOps course include:
 
-Developing a deep understanding of DevOps principles and practices.
-Gaining proficiency in the use of DevOps tools and technologies.
-Learning how to build and optimize CI/CD pipelines.
-Mastering infrastructure automation and configuration management.
-Understanding the importance of security in DevOps and implementing secure practices.
-Preparing students for real-world DevOps challenges and industry demands.
 3. Course Format:
 COMP 3104 is typically offered as a semester-long course, and the format may include:
 
