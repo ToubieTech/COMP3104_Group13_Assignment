@@ -24,8 +24,6 @@ Guest lectures by industry experts sharing their insights and experiences.
 4. Prerequisites:
 To enroll in COMP 3104, students may need to meet certain prerequisites, which can include completion of prerequisite courses in software development, system administration, or related fields. It's advisable to check the specific requirements with the college or institution offering the course.
 
-5. Career Relevance:
-The skills and knowledge acquired in COMP 3104 are highly relevant in today's job market. Graduates of this course are well-prepared to pursue careers as DevOps engineers, system administrators, cloud architects, and other related roles in the IT industry.
 
 6. Instructor and Resources:
 COMP 3104 is typically taught by experienced instructors with expertise in DevOps practices. Students may have access to course materials, textbooks, and online resources to support their learning.
