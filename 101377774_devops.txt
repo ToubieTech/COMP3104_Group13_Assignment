@@ -31,6 +31,5 @@ COMP 3104 is typically taught by experienced instructors with expertise in DevOp
 7. Assessment and Certification:
 Assessment methods may include examinations, assignments, group projects, and practical exams. Successful completion of the course may result in a certification or academic credit, depending on the institution.
 
-8. Future Prospects:
-As DevOps continues to be a critical aspect of modern software development, graduates of COMP 3104 are well-positioned to contribute to the success of organizations seeking to adopt DevOps practices and improve their software delivery processes.
+
 
